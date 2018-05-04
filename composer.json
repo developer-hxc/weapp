@@ -8,6 +8,7 @@
         "公众号"
     ],
     "homepage": "https://github.com/lscgzwd/weapp",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "lscgzwd",
