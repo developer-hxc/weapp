@@ -1,5 +1,5 @@
 {
-    "name": "wx/weapp",
+    "name": "hxc/weapp",
     "description": "微信小程序第三方平台SDK,公众号第三方平台SDK，代实现公众号业务，代实现小程序业务",
     "keywords": [
         "wechat",
